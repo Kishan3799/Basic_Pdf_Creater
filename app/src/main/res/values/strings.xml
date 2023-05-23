@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Basic PDF Creater</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_age">Enter Your Age</string>
+    <string name="enter_your_roll_no">Enter Your Roll No.</string>
+    <string name="enter_your_branch">Enter Your Branch</string>
+    <string name="generate_pdf_template">Generate pdf template</string>
+    <string name="name">Name :</string>
+    <string name="age">Age :</string>
+    <string name="enrolment">Roll No :</string>
+    <string name="branch">Branch :</string>
+</resources>
